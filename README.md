@@ -25,23 +25,7 @@ Step2:Creating a Multistage Docker File to serve with nginx as reverse proxy
 
 <h2>DockerFile </h2>
 <img src="https://github.com/user-attachments/assets/2dd1093f-05c8-4f68-8413-a24729f29e2d" alt="DockerFile" width="800" height="300">
-
-</body>
-</html>
-
-
-
-
-Step3:Push image to ECR
-=
-<html>
-<body>
-
-<h2>ECR Repository on AWS </h2>
-<img src="https://github.com/user-attachments/assets/970f7144-fbfc-498c-b964-d76d7b921931" alt="Setting up ECR on AWS" width="800" height="300">
-<img src="https://github.com/user-attachments/assets/bfd9761a-48de-4015-86c7-8c988497bc08" alt="ECR Repositories on AWS" width="800" height="300">
-<img src="https://github.com/user-attachments/assets/6b2c6533-d926-4036-84eb-aa9f6dcf13a8" alt="Image Details on ECR Repositories on aws" width="800" height="400">
-
+<img src="https://github.com/user-attachments/assets/3d6de03a-8d74-4887-8b69-c38d46366e4e" alt="DockerFile reverse proxy Nginx" width="800" height="300">
 </body>
 </html>
 
@@ -58,3 +42,19 @@ CICD pipeline to Deploy Docker Image on ECR Repository on AWS via Github Actions
 <img src="https://github.com/user-attachments/assets/93bd65db-5d25-4237-a7f6-a247cffbd7c7" alt="Steps of Github Actions Workflow File " width="800" height="400">
 </body>
 </html>
+
+
+Step3:Push image to ECR
+=
+<html>
+<body>
+
+<h2>ECR Repository on AWS </h2>
+<img src="https://github.com/user-attachments/assets/970f7144-fbfc-498c-b964-d76d7b921931" alt="Setting up ECR on AWS" width="800" height="300">
+<img src="https://github.com/user-attachments/assets/bfd9761a-48de-4015-86c7-8c988497bc08" alt="ECR Repositories on AWS" width="800" height="300">
+<img src="https://github.com/user-attachments/assets/6b2c6533-d926-4036-84eb-aa9f6dcf13a8" alt="Image Details on ECR Repositories on aws" width="800" height="400">
+
+</body>
+</html>
+
+
