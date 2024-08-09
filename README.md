@@ -11,8 +11,8 @@ Step1:Setting Up a GitHub Repo
 <body>
 
 <h2>Github Repository </h2>
-<img src="https://github.com/user-attachments/assets/aba98775-8420-4385-94eb-e5f65c2a212b" alt="Github Code Repository No:1" width="860" height="645">
-<img src="https://github.com/user-attachments/assets/12cdb578-63d8-45ba-a1c6-c5d4100017e3" alt="Github Code Repository No:2" width="860" height="645">
+<img src="https://github.com/user-attachments/assets/aba98775-8420-4385-94eb-e5f65c2a212b" alt="Github Code Repository No:1" width="360" height="445">
+<img src="https://github.com/user-attachments/assets/12cdb578-63d8-45ba-a1c6-c5d4100017e3" alt="Github Code Repository No:2" width="360" height="445">
 </body>
 </html>
 
