@@ -54,7 +54,7 @@ CICD pipeline to Deploy Docker Image on ECR Repository on AWS via Github Actions
 <h2>CICD Through GitHub Actions </h2>
 <img src="https://github.com/user-attachments/assets/e116ce10-f0d4-4b5b-865a-60465931796f" alt="Workflow file to Deploy on ECR yml file " width="800" height="300">
 <img src="https://github.com/user-attachments/assets/3f6a4166-4be1-4e52-903c-4058ec435fb1" alt="Actions" width="800" height="400">
-<img src="https://github.com/user-attachments/assets/3f6a4166-4be1-4e52-903c-4058ec435fb1" alt="Actions Summary" width="800" height="400">
+<img src="https://github.com/user-attachments/assets/82222f84-ad59-4630-ac03-4bada1a733e1" alt="Actions Summary" width="800" height="400">
 <img src="https://github.com/user-attachments/assets/93bd65db-5d25-4237-a7f6-a247cffbd7c7" alt="Steps of Github Actions Workflow File " width="800" height="400">
 </body>
 </html>
