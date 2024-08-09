@@ -32,7 +32,7 @@ Step2:Creating a Multistage Docker File to serve with nginx as reverse proxy
 
 
 
-step3:Push image to ECR
+Step3:Push image to ECR
 =
 <html>
 <body>
