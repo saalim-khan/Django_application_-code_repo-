@@ -18,13 +18,14 @@ Step1:Setting Up a GitHub Repo
 
 
 
-Step2:Creating a Docker File 
+Step2:Creating a MultiStage Docker File 
 =
 <html>
 <body>
 
 <h2>DockerFile </h2>
 <img src="https://github.com/user-attachments/assets/2dd1093f-05c8-4f68-8413-a24729f29e2d" alt="DockerFile" width="800" height="300">
+<img src="https://github.com/user-attachments/assets/71cd9a8a-937b-4724-aaff-d9a7064b07c0" alt="Multi Stage DockerFile" width="800" height="300">
 
 </body>
 </html>
