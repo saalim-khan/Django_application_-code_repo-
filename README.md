@@ -6,6 +6,12 @@ Problem Statement: Configure a GitHub Actions workflow to automate the deploymen
 The pipeline should include deployment, integration tests, and rollback functionality. With following steps.
 
 Step1:Setting Up a GitHub Repo
-===============================
-Step2:Creating a Multistage Docker File
-======================================
+=
+
+Step2:Creating a Multistage Docker File to serve with nginx as reverse proxy
+=
+
+
+step3:Push image to ECR
+=
+
