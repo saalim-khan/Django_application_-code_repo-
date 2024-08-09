@@ -41,7 +41,7 @@ Step3:Push image to ECR
 <img src="https://github.com/user-attachments/assets/970f7144-fbfc-498c-b964-d76d7b921931" alt="Setting up ECR on AWS" width="800" height="300">
 <img src="https://github.com/user-attachments/assets/bfd9761a-48de-4015-86c7-8c988497bc08" alt="ECR Repositories on AWS" width="800" height="300">
 <img src="https://github.com/user-attachments/assets/6b2c6533-d926-4036-84eb-aa9f6dcf13a8" alt="Image Details on ECR Repositories on aws" width="800" height="400">
-<img src="" alt="Multistage DockerFile With Nginx Reverse Proxy" width="800" height="400">
+
 </body>
 </html>
 
