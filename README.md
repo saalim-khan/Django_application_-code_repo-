@@ -18,7 +18,7 @@ Step1:Setting Up a GitHub Repo
 
 
 
-Step2:Creating a Multistage Docker File 
+Step2:Creating a Docker File 
 =
 <html>
 <body>
