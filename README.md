@@ -25,7 +25,7 @@ Step2:Creating a Multistage Docker File to serve with nginx as reverse proxy
 
 <h2>DockerFile </h2>
 <img src="https://github.com/user-attachments/assets/2dd1093f-05c8-4f68-8413-a24729f29e2d" alt="DockerFile" width="800" height="300">
-<!<img src="" alt="Multistage DockerFile With Nginx Reverse Proxy" width="800" height="400">>
+
 </body>
 </html>
 
