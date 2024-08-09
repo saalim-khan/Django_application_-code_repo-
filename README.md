@@ -18,14 +18,14 @@ Step1:Setting Up a GitHub Repo
 
 
 
-Step2:Creating a Multistage Docker File to serve with nginx as reverse proxy
+Step2:Creating a Multistage Docker File 
 =
 <html>
 <body>
 
 <h2>DockerFile </h2>
 <img src="https://github.com/user-attachments/assets/2dd1093f-05c8-4f68-8413-a24729f29e2d" alt="DockerFile" width="800" height="300">
-<img src="https://github.com/user-attachments/assets/3d6de03a-8d74-4887-8b69-c38d46366e4e" alt="DockerFile reverse proxy Nginx" width="800" height="300">
+
 </body>
 </html>
 
